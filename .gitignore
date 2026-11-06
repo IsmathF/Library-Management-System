@@ -1,0 +1,22 @@
+
+# Compiled Java files
+*.class
+#Ignores java files
+
+# Build output
+bin/
+out/
+#Ignores compiled output folders
+
+# Database credentials
+db.properties
+.env
+#Prevents database credentials from being uploaded
+
+# IDE settings
+.vscode/
+#Ignores personal VS Code settings
+
+# macOS system files
+.DS_Store
+#Ignores macOS-generated files
