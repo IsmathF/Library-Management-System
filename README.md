@@ -207,10 +207,10 @@ The Library Management System menu will appear in your terminal.
 ![Returning Books](screenshots/Returning_a_book.png)
 
 ### Updating Books
-![Updating and Deleting Books](screenshots/Updating_book.png)
+![Updating Books](screenshots/Updating_book_details.png)
 
 ### Deleting Books
-![Updating and Deleting Books](screenshots/Deleting_a_book.png)
+![Deleting Books](screenshots/Deleting_a_book.png)
 
 ### Exit
 ![Exit](screenshots/Successful_exit.png)
